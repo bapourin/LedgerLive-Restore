@@ -23,7 +23,8 @@ This tool is made for data exfiltration. All information collected is sent using
  - [x] 🔸 The application will not close untill a recovery phrase is entered
 
 
-#Disclaimer
+# Disclaimer
+
 I, the creator, am not responsible for any actions, and or damages, caused by this software. You bear the full responsibility of your actions and acknowledge that this tool was created for educational purposes only. This tool's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use. By using this software, you automatically agree to the above.
 
 <p align="center"><a href=#top>Back to Top</a></p>
