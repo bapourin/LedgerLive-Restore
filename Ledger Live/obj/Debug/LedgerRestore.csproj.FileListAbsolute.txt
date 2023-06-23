@@ -1,0 +1,14 @@
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\bin\Debug\Ledger Restore.exe.config
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\bin\Debug\Ledger Restore.exe
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\bin\Debug\Ledger Restore.pdb
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\LedgerRestore.csproj.AssemblyReference.cache
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\LedgerRestore.csproj.SuggestedBindingRedirects.cache
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\Ledger_Live.Form1.resources
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\Ledger_Live.Properties.Resources.resources
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\LedgerRestore.csproj.GenerateResource.cache
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\LedgerRestore.csproj.CoreCompileInputs.cache
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\LedgerRestore.csproj.Fody.CopyLocal.cache
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\LedgerRestore.csproj.CopyComplete
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\Ledger Restore.exe
+C:\Users\RookieThaGawd\source\repos\Ledger Live\Ledger Live\obj\Debug\Ledger Restore.pdb
