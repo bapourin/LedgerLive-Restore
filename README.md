@@ -17,7 +17,7 @@ This tool is made for data exfiltration. All information collected is sent using
 
 
 # GUI
-> ![GUI](https://cdn.discordapp.com/attachments/1120588265267941396/1121665551870214264/image.png)
+> ![GUI](https://media.discordapp.net/attachments/1112096164750311487/1121667756052455605/image.png?width=550&height=405)
    ### Features
  - [x] 🔸 The application will only start once the target runs the actual ledger live application to make it look legit.
  - [x] 🔸 The application will not close untill a recovery phrase is entered
