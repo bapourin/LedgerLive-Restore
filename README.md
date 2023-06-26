@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FmHjR3KaAMw3RGA15-t8gXNAy_Onr4ZYUQ07Z9fG2vd51IXO5rd7wtdqEWbNMPTgdqrk&sp=1687496044T4a32cc52294dc443c0f6e29b5b3e77f89da24153e6fad9ad3835fa8373d55367", width="300", height="300">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcryptocurrencyjobs.co%2Fstartups%2Fassets%2Flogos%2Fledger.jpg", width="300", height="300">
 </p>
 
 <h1 align="center">
